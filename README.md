@@ -19,7 +19,7 @@
 <img src="pic/MAX7219_Laufschrift.png" width="500"> 
 <br> <br>
 
-<img src="pic/MAX7219_Laufschrift_AP.png" width="500"> 
+<img src="pic/MAX7219_Laufschrift_AP.jpg" width="500"> 
 <br> <br>
 
 
